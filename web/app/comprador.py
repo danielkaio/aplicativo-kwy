@@ -3,7 +3,7 @@ from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.core.window import Window
 
-Window.clearcolor = (25/255,255,255,255)
+Window.clearcolor = (25/255,18/255,255,255)
 
 
 class Comp(BoxLayout):
